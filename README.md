@@ -30,5 +30,3 @@ Currently working with .NET and react. Aspiring to forge a career in software de
 <a href="http://www.github.com/Ssujjall"><img src="https://github-readme-stats.vercel.app/api?username=Ssujjall&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ssujjall's GitHub stats" /></a>
 
 <a href="http://www.github.com/Ssujjall"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ssujjall&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Ssujjall" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssujjall&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
