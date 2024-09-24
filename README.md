@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Currently working with .NET and react. Aspiring to forge a career in software development.
+Currently working with .NET and React.js. Aspiring to forge a career in software development.
 
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [sujalmaharjan.netlify.app](http://sujalmaharjan.netlify.app)
