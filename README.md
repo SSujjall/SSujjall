@@ -9,7 +9,7 @@ Currently working with .NET and React.js. Aspiring to forge a career in software
 * 🌍  I'm based in Nepal.
 * 🖥️  See my portfolio at [sujalmaharjan.netlify.app](http://sujalmaharjan.netlify.app)
 * ✉️  You can contact me at [sujalmhz@gmail.com](mailto:sujalmhz@gmail.com)
-* 🧠  My current tech stack: ASP.NET and React.js
+* 🧠  My current tech stack: .NET and React.js
 
 ### Skills
 
