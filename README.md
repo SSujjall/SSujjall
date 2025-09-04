@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Currently working with .NET and React.js.<br>• 🌍 I'm based in Nepal.<br>• 🖥️ See my portfolio at www.sujal-maharjan.com.np<br>• ✉️ You can contact me at sujalmhz@gmail.com<br>• 🧠 My current tech stack: .NET and React.js</p>
+<p align="left">💼 Currently working for Infinite Nepal<br>• 🌍 I'm based in Nepal.<br>• 🖥️ See my portfolio at www.sujal-maharjan.com.np<br>• ✉️ You can contact me at sujalmhz@gmail.com<br>• 🧠 My current tech stack: .NET, React.js, Angular, Oracle, Microsoft SQL Server</p>
 
 ###
 
