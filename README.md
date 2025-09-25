@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 I am a Software Developer</h3>
+<h3 align="left">👩‍💻 I am a Software Engineer</h3>
 
 ###
 
